@@ -1,0 +1,21 @@
+.container{
+  max-width: 1200px;
+  border: 1px solid red;
+  margin: 0px auto;
+}
+.ulList li{
+  list-style: none;
+}
+.ulList li a{
+  text-decoration: none;
+  color:#292F36;
+  font-size: 20px;
+}
+.active-link {
+  color:#CDA274;
+}
+.mini-box{
+  height: 25px;
+  width: 25px;
+  background-color: #eeee;
+}
