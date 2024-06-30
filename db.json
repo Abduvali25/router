@@ -1,0 +1,55 @@
+{
+
+  "furniture": [
+    {
+        "id": "1",
+        "category": "BathRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "2",
+        "category": "BedRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "3",
+        "category": "BedRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "4",
+        "category": "BedRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "5",
+        "category": "BathRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "6",
+        "category": "BathRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "7",
+        "category": "BathRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "8",
+        "category": "BedRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "9",
+        "category": "BathRoom",
+        "name": "Decor / Artchitecture"
+    },
+    {
+        "id": "10",
+        "category": "BedRoom",
+        "name": "Decor / Artchitecture"
+    }
+  ]
+}

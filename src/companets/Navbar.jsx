@@ -4,6 +4,7 @@ import NotFount from './NotFount'
 import Services from './Services'
 import Project from './Project'
 import { BsSearch } from "react-icons/bs";
+import Furniture from './Furniture'
 
 
 
@@ -33,7 +34,8 @@ const Navbar = () => {
     <Routes>
       <Route  path='/' element={<Home/>}/>
       <Route  path='/Services' element={<Services />}/>
-      <Route  path='/Project' element={<Project />}/>
+      <Route  path='/Project/*' element={<Project />}/>
+       <Route path=':Project' element={<Furniture/>}/>
 
       <Route  path='*' element={<NotFount />}/>
 
